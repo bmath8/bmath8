@@ -1,16 +1,35 @@
-## Hi there 👋
+# Brian Mathew
 
-<!--
-**bmath8/bmath8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I build working systems — then I keep them running.** New Jersey. Open to remote, hybrid,
+on-site, or relocation, and available to start quickly.
 
-Here are some ideas to get you started:
+Most of what I know came from operating my own software rather than only writing it. There are
+25 scheduled agents executing on my machine right now; when one of them breaks at 3am, I'm the
+one who finds out why. That's shaped how I build: test it, document it, put a guardrail in
+front of anything destructive, and assume it will fail in a way I didn't predict.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 [Portfolio & resume](https://bmath8.vercel.app) · ✉️ [mathew.brian@gmail.com](mailto:mathew.brian@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/brian-mathew-66235556)
+
+---
+
+### What I've built
+
+| Project | What it is | Status |
+|---|---|---|
+| **[brian-os](https://github.com/bmath8/brian-os)** | A fleet of 25 scheduled Python agents running unattended on Windows — daily briefs, health checks, self-recovery, two-way Telegram control. Anything that sends, spends, deploys or deletes is draft-only until I approve it. | Running daily · **81 tests passing** |
+| **[fam-super-bowl-squares-2026](https://github.com/bmath8/fam-super-bowl-squares-2026)** | A real-time squares pool that real people used during Super Bowl LX. 100 squares, live draw, score-driven winner resolution. | **[Live — try it ↗](https://fam-super-bowl-squares-2026.vercel.app)** |
+| **[boombox](https://github.com/bmath8/boombox)** | Collaborative music prototype — shared queues and synchronized listening. Durable Postgres state kept deliberately separate from transient WebSocket + Redis Pub/Sub. | Prototype, public source |
+| **[pokemon-drop-intel](https://github.com/bmath8/pokemon-drop-intel)** | Local-first TCG collection and drop-intelligence dashboard. | Next.js, sample-data demo |
+
+### Working with
+
+`Python` · `SQL` · `TypeScript` · `React` / `Next.js` · `PowerShell` · `Windows` · `pytest` · `Docker` · local LLMs via `Ollama`
+
+### What I'm looking for
+
+A full-time role building or supporting software — developer, technical support, or operations.
+Before I wrote software I spent years in customer-facing work (appliances department lead at
+Best Buy, then a year driving independently for Uber), and I'd rather be somewhere those two
+halves both count.
+
+<sub>Every number on this profile is checkable. The test count comes from a real <code>pytest</code> run; the agent count comes from a real crontab.</sub>
