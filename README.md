@@ -3,11 +3,19 @@
 **From the sales floor to building software.** Customer Success · Support · IT · QA · New Jersey
 (remote, hybrid, on-site or relocation · available to start right away).
 
-For years my job was helping people with a problem, a budget and a deadline: first as appliances
-department lead at Best Buy, then on the road with Uber. I got curious about how the tools I used
-every day actually worked, so I taught myself to build them. Now I build, test and support real
-software, and I'd love to bring both halves, the patience of customer-facing work and the know-how
-to find and fix what's broken, to a team that makes things for people.
+I got my first job at 16, working concessions and as an usher at AMC. Grocery stores, clothing stores
+and Best Buy followed, where I led the appliances department. The common thread was always people:
+listening, handling rejection, and working out what someone actually needed.
+
+That work made me curious about sales and marketing, and then about the tools themselves. AI gave me
+a way to start turning ideas into things I could try, and I kept going until they worked properly.
+Today that is two live apps anyone can open and a Windows automation system, backed by 460+ passing
+tests.
+
+I build around everyday problems and interests: tracking warranties, a family fantasy draft,
+organizing a job search, listening to music with friends. I want what I build to make someone's day a
+little easier. I'm looking for a team where I can bring the customer-facing experience and the
+curiosity, do useful work, and keep growing technically.
 
 💼 [LinkedIn](https://linkedin.com/in/brian-mathew-66235556) · 📄 [Portfolio & résumé](https://bmath8.vercel.app)
 
@@ -17,7 +25,7 @@ to find and fix what's broken, to a team that makes things for people.
 
 | Project | What it is | Status |
 |---|---|---|
-| **[brian-os](https://github.com/bmath8/brian-os)** | A Windows automation system I built: 32 scheduled Python jobs with health checks, self-recovery and phone alerts. Anything that sends, spends, deploys or deletes waits for my approval. | Built · being upgraded · **235 tests passing** |
+| **[brian-os](https://github.com/bmath8/brian-os)** | A Windows automation system I built: 30+ scheduled Python jobs with health checks, self-recovery and phone alerts. Anything that sends, spends, deploys or deletes waits for my approval. | Built · being upgraded · **235 tests passing** |
 | **Family Draft Desk** | A real-time draft room for a sixteen-team league across phones, tablets and laptops. Shared clock, reconnect-safe picks, and commissioner pause, undo and repair while the draft is live. | **[Open the public test room ↗](https://family-draft-desk.vercel.app/?demo=1)** · no account · **142 tests passing** |
 | **Warranty Tracker** | Add a purchase and see how long the warranty has left, with anything close to expiring flagged first. No account, no server, and no data leaves the device. | **[Live, try it ↗](https://warranty-tracker-azure.vercel.app)** |
 | **[boombox](https://github.com/bmath8/boombox)** | Listen-together music prototype. Room history lives in Postgres; live traffic runs over WebSockets and Redis. | Prototype · Jest/RTL |
