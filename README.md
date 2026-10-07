@@ -3,8 +3,8 @@
 **From the sales floor to building software.** Customer Success · Support · IT · QA · New Jersey
 (remote, hybrid, on-site or relocation · available to start right away).
 
-I got my first job at 16, working concessions and as an usher at AMC. Grocery stores, clothing stores
-and Best Buy followed, where I led the appliances department. The common thread was always people:
+I got my first job at 16, working concessions and as an usher at AMC Theatres. Grocery stores, clothing
+stores and Best Buy followed, where I led the appliances department. The common thread was always people:
 listening, handling rejection, and working out what someone actually needed.
 
 That work made me curious about sales and marketing, and then about the tools themselves. AI gave me
