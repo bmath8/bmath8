@@ -1,6 +1,6 @@
 # Brian Mathew
 
-**From the sales floor to building software.** Customer Success · Support · IT · QA · New Jersey
+**From the sales floor to building with AI.** AI & Automation · Customer Success · Support · QA · New Jersey
 (remote, hybrid, on-site or relocation · available to start right away).
 
 I got my first job at 16, working concessions and as an usher at AMC Theatres. Grocery stores, clothing
@@ -9,8 +9,8 @@ listening, handling rejection, and working out what someone actually needed.
 
 That work made me curious about sales and marketing, and then about the tools themselves. AI gave me
 a way to start turning ideas into things I could try, and I kept going until they worked properly.
-Today that is two live apps anyone can open and a Windows automation system, backed by 460+ passing
-tests.
+Since 2024 I have built and run my own software with Claude, Codex and local models. Today that is two
+live apps anyone can open and a system of AI agents on my own PC, backed by 460+ passing tests.
 
 I build around everyday problems and interests: tracking warranties, a family fantasy draft,
 organizing a job search, listening to music with friends. I want what I build to make someone's day a
@@ -25,7 +25,7 @@ curiosity, do useful work, and keep growing technically.
 
 | Project | What it is | Status |
 |---|---|---|
-| **[brian-os](https://github.com/bmath8/brian-os)** | A Windows automation system I built: 30+ scheduled Python jobs with health checks, self-recovery and phone alerts. Anything that sends, spends, deploys or deletes waits for my approval. | Built · being upgraded · **235 tests passing** |
+| **[brian-os](https://github.com/bmath8/brian-os)** | Scheduled AI agents on my own PC, built to run on a local model through Ollama: 30+ scheduled Python jobs with health checks, self-recovery and phone alerts. Anything that sends, spends, deploys or deletes waits for my approval. | Built · being upgraded · **235 tests passing** |
 | **Family Draft Desk** | A real-time draft room for a sixteen-team league across phones, tablets and laptops. Shared clock, reconnect-safe picks, and commissioner pause, undo and repair while the draft is live. | **[Open the public test room ↗](https://family-draft-desk.vercel.app/?demo=1)** · no account · **142 tests passing** |
 | **Warranty Tracker** | Add a purchase and see how long the warranty has left, with anything close to expiring flagged first. No account, no server, and no data leaves the device. | **[Live, try it ↗](https://warranty-tracker-azure.vercel.app)** |
 | **[boombox](https://github.com/bmath8/boombox)** | Listen-together music prototype. Room history lives in Postgres; live traffic runs over WebSockets and Redis. | Prototype · Jest/RTL |
@@ -43,6 +43,7 @@ Every bug I fix gets a test so it can't come back.
 
 ### Working with
 
+**AI:** `Claude Code` · `Codex` · local models (`Ollama`) · AI agents · LLM app development (OpenAI, Anthropic)<br>
 **Support:** troubleshooting · root-cause analysis · help desk · customer service · documentation<br>
 **Systems:** `Windows` · `PowerShell` · monitoring · log analysis<br>
 **Testing:** `pytest` · `node:test` · `Jest/RTL` · `Playwright` · regression testing<br>
