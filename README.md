@@ -1,6 +1,6 @@
 # Brian Mathew
 
-**From the sales floor to building with AI.** AI & Automation · Customer Success · Support · QA · New Jersey
+**From the sales floor to building with AI.** AI & Automation · Customer Success · Support · New Jersey
 (remote, hybrid, on-site or relocation · available to start right away).
 
 I got my first job at 16, working concessions and as an usher at AMC Theatres. Grocery stores, clothing
